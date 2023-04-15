@@ -1,3 +1,3 @@
-# geomtoy-assets
+# Geomtoy assets
 
-This is the repo to store all the assets about Geomtoy.
+This repo holds all the assets about Geomtoy.
